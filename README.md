@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | AI/ML Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="./assets/naji_pic.png" width="320">
+  <img src="./naji_pic.png" width="320">
 </p>
 
 ## 🚀 About Me
