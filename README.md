@@ -82,14 +82,3 @@ Agentic RAG system built with **LangGraph + LangChain**, using **Mem0** for long
 
 ### ⚡ Zapier Email & CRM Automation
 AI-powered email triage system using **GROQ** to classify and prioritize Outlook emails, auto-store records in **Airtable**, send scheduled digests, and trigger a Clio-to-Airtable lead-response workflow.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SyedNajiullah&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyedNajiullah&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedNajiullah&theme=radical" alt="streak stats"/>
-</p>
