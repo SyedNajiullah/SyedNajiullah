@@ -9,20 +9,19 @@
 
 Hi, I'm **Syed Najiullah** — a Computer Science graduate from Lahore, Pakistan, passionate about full-stack web development, AI/ML, and building automation systems that solve real problems. I love working with LLMs, RAG pipelines, and turning ideas into production-ready applications.
 
-- 🔭 Currently working as a **Software Engineering Intern at Databiqs**, building full-stack apps with Next.js & FastAPI
-- 🤖 Previously built **GenAI RAG pipelines, LLM fine-tuning (LoRA/QLoRA)** and voice agents at **PureLogics**
-- 🧠 Applied classic ML algorithms (SVM, Random Forest, KNN, K-Means) at **Brainium**
+- 🌐 Can make AI web apps using Next.js and FastAPI.
+- 🤖 Previously built **GenAI RAG pipelines, LLM fine-tuning (LoRA/QLoRA)** and voice agents
+- 🧠 Applied classic ML algorithms (SVM, Random Forest, KNN, K-Means) at
 - 🎓 B.S. in Computer Science, University of Central Punjab (GPA 3.79)
 - 🌱 Always learning new tools in AI agents, automation, and web dev
-- 📫 Reach me at **najiullahsyed2@gmail.com**
 
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.linkedin.com/in/syednajiullah-0a17a726b/" target="_blank">
+<a href="https://www.linkedin.com/in/syed-najiullah-0a17a726b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://portfoliosyednajiullah.vercel.app/" target="_blank">
+<a href="https://portfolio-syednajiullah.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
